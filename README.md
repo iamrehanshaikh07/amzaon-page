@@ -31,10 +31,6 @@ Font Awesome
 
 This project was created to improve my frontend development skills and understand webpage layout design.
 
-📸 Screenshot
-
-(Add screenshot here if you want)
-
 📌 Author
 
 Rehan Shaikh
